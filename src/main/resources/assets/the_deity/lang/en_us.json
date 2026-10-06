@@ -1,0 +1,20 @@
+{
+  "itemGroup.the_deity": "The Deity",
+  "item.the_deity.green_key": "Green Key",
+  "item.the_deity.divine_blessing": "Divine Blessing",
+  "item.the_deity.rotten_heart": "Rotten Heart",
+  "item.the_deity.rotten_heart.description": "A still-beating rotten heart, emanating the scent of death...",
+  "item.the_deity.rotten_heart.effect": "§5§lUndead Repel §r§8—Death is your ally",
+  "item.the_deity.thorn_scales": "Thorn Scales",
+  "item.the_deity.thorn_scales.description": "Ancient scales covered with sharp thorns, gleaming with dangerous light...",
+  "item.the_deity.thorn_scales.effect": "§2§lThorn Retaliation §r§a—Blood for blood, pain for pain",
+  "item.the_deity.undying_will": "Undying Will",
+  "item.the_deity.undying_will.description": "A mysterious curio containing unyielding will, glowing in desperation...",
+  "item.the_deity.undying_will.effect": "§5§lUndying Will §r§5—Death is not the end",
+  "item.the_deity.divine_guardian": "Divine Guardian",
+  "item.the_deity.divine_guardian.description": "An ancient armor piece radiating divine glory, containing heaven's favor...",
+  "item.the_deity.divine_guardian.effect": "§6§lDivine Guardian §r§6—Heaven's protection",
+  "item.the_deity.black_heart": "Black Heart",
+  "item.the_deity.black_heart.description": "A pitch-black heart beating in darkness, consuming all light...",
+  "item.the_deity.black_heart.effect": "§8§lBlack Heart §r§8—Darkness is the source of power"
+}

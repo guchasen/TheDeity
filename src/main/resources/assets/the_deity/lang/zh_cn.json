@@ -1,0 +1,20 @@
+{
+  "itemGroup.the_deity": "Deity",
+  "item.the_deity.green_key": "苍绿钥匙",
+  "item.the_deity.divine_blessing": "庇佑",
+  "item.the_deity.rotten_heart": "腐烂之心",
+  "item.the_deity.rotten_heart.description": "一颗仍在跳动的腐烂心脏，散发着死亡的气息...",
+  "item.the_deity.rotten_heart.effect": "§5§l 亡灵退散 §r§8——死亡是你的盟友",
+  "item.the_deity.thorn_scales": "棘刺鳞片",
+  "item.the_deity.thorn_scales.description": "覆盖着尖锐倒刺的古老鳞片，闪烁着危险的光芒...",
+  "item.the_deity.thorn_scales.effect": "§2§l 荆棘反伤 §r§a——以血还血，以痛还痛",
+  "item.the_deity.undying_will": "不死意志",
+  "item.the_deity.undying_will.description": "一件蕴含着不屈意志的神秘之物，在绝境中绽放最后的光芒...",
+  "item.the_deity.undying_will.effect": "§5§l 不死意志 §r§5——死亡不是终点",
+  "item.the_deity.divine_guardian": "承天之护",
+  "item.the_deity.divine_guardian.description": "一件散发着神圣光辉的古老护具，蕴含着上天的眷顾...",
+  "item.the_deity.divine_guardian.effect": "§6§l承天之护 §r§6——神亦护之",
+  "item.the_deity.black_heart": "黑黯之心",
+  "item.the_deity.black_heart.description": "一颗在黑暗中跳动的漆黑心脏，吞噬着所有光明...",
+  "item.the_deity.black_heart.effect": "§8§l黑黯之心 §r§8——黑暗是力量的源泉"
+}
